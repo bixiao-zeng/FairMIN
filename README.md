@@ -1,4 +1,4 @@
-FedMIN: Federated Learning with Mixed Noise
+FairMIN: Incentive Mechanism Federated Learning SOTA Package
 **Journal:** Under Review at IEEE Transactions on Knowledge and Data Engineering
 
 **Authors:** BIXIAO ZENG, XIAODONG YANG, YIQIANG CHEN∗, HANCHAO YU, CHUNYU HU, YINGWEI ZHANG
