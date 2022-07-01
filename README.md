@@ -1,14 +1,9 @@
 FairMIN: Incentive Mechanism Federated Learning SOTA Package
-**Journal:** Under Review at IEEE Transactions on Knowledge and Data Engineering
-
-**Authors:** BIXIAO ZENG, XIAODONG YANG, YIQIANG CHEN∗, HANCHAO YU, CHUNYU HU, YINGWEI ZHANG
-
-
 
 **Getting Started**
 ---
 
 ```pseudocode
-python3 FedMIN.py --dataset [cifar10] --noisy_datset [SVHN] --mode [asym] --r [0.6] --on [0.5] --num_classes [10] --noisy_clnt [0.25] --num_users [20] 
+python3 Baselines.py --method [sfavg] --dataset [cifar10] --noisy_datset [SVHN] --mode [sym] --r [0.5] --on [0] --num_classes [10] --noisy_clnt [0.25] --num_users [4] 
 ```
 
